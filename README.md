@@ -1,7 +1,7 @@
 # Level Ground 
 This project is a wireframe developed for a mixed martial arts gym. The top section contains a banner with the site mission statement, logo, and a link to a video demonstrating a typical class. There are additional sections showing different product offerings and a section for volunteer opportunities. The bottom section contains affiliated links, site map, copyright info, and contact information.
 
-**Link to project:** 
+**Link to project:** https://level-ground-815518.netlify.app
 
 ![screenshot](img/screenshot.jpg)
 
